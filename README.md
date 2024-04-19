@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pamelaaraujo.araujo56@gmail.com/ lemes5cristina@gmail.com
 - 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: ...Cursei Ciências biologicas fiz a transição para Ciências de dados.
+- ⚡ Fun fact: ...Cursei Ciências biologicasrealizando a transição para Ciências de dados.
 
 <!---
 pamelaaraujo56/pamelaaraujo56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
